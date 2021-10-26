@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Our_Social_Media/precache-manifest.96d8ab2e2c4459a13c50bae93a040a41.js"
+  "/nft_website/precache-manifest.1af5625eac1462c5a1cd781ab12b0243.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Our_Social_Media/index.html", {
+workbox.routing.registerNavigationRoute("/nft_website/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
