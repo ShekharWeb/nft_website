@@ -1,17 +1,16 @@
 {
-  "main.css": "/nft_website/static/css/main.23531fd2.chunk.css",
-  "main.js": "/nft_website/static/js/main.8554e726.chunk.js",
-  "main.js.map": "/nft_website/static/js/main.8554e726.chunk.js.map",
+  "main.css": "/nft_website/static/css/main.c6ec63c5.chunk.css",
+  "main.js": "/nft_website/static/js/main.61990207.chunk.js",
+  "main.js.map": "/nft_website/static/js/main.61990207.chunk.js.map",
   "static/css/1.cd397256.chunk.css": "/nft_website/static/css/1.cd397256.chunk.css",
   "static/js/1.c81f5d7e.chunk.js": "/nft_website/static/js/1.c81f5d7e.chunk.js",
   "static/js/1.c81f5d7e.chunk.js.map": "/nft_website/static/js/1.c81f5d7e.chunk.js.map",
   "runtime~main.js": "/nft_website/static/js/runtime~main.3875d8fd.js",
   "runtime~main.js.map": "/nft_website/static/js/runtime~main.3875d8fd.js.map",
-  "static/media/bootstrap-icons.css": "/nft_website/static/media/bootstrap-icons.e07b538a.woff2",
-  "static/media/App.css": "/nft_website/static/media/Itim-Regular.ea9ed37a.ttf",
+  "static/media/bootstrap-icons.css": "/nft_website/static/media/bootstrap-icons.7fb23f3b.woff",
+  "static/css/main.c6ec63c5.chunk.css.map": "/nft_website/static/css/main.c6ec63c5.chunk.css.map",
   "static/css/1.cd397256.chunk.css.map": "/nft_website/static/css/1.cd397256.chunk.css.map",
-  "static/css/main.23531fd2.chunk.css.map": "/nft_website/static/css/main.23531fd2.chunk.css.map",
   "index.html": "/nft_website/index.html",
-  "precache-manifest.dec5f918bf5ebf5e36afa0755863c2cf.js": "/nft_website/precache-manifest.dec5f918bf5ebf5e36afa0755863c2cf.js",
+  "precache-manifest.66fb24e56f4e341f7aeacf23ca36c283.js": "/nft_website/precache-manifest.66fb24e56f4e341f7aeacf23ca36c283.js",
   "service-worker.js": "/nft_website/service-worker.js"
 }
